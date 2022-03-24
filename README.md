@@ -1,7 +1,7 @@
-# Dollar Store Calculator
-Simple Calculator for addition, subtraction, multiplication, division created with MIPS Assembly **MARS**
-Each function coded from scratch without using built-in functions
-Affords chain integer operations
+# Simple Calculator
+* Affords integer addition, subtraction, multiplication, division
+* Each function coded from scratch without using built-in functions
+* Works just like a dollar store calculator
 
 ### Preview
 ![Calculator - screenshot](Preview.png)
