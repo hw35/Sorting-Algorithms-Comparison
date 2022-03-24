@@ -6,7 +6,7 @@
 ### Preview
 ![Calculator - screenshot](Preview.png)
 
-### Requirements
+### Software Requirement
 * MIPS Assembler and Run-time Simulator (aka MARS)
 
 ### Installation
