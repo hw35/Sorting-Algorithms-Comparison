@@ -9,16 +9,16 @@
 * Java SE
 
 ### Installation
-
 1. Download the repository files from the download section or clone this project by typing in the bash the following command:
 
        git clone https://github.com/hw35/Sorting-Algorithms-Comparison.git
 2. Initialize Assig4.java on the command line
 3. Run the following input on the command line
-       1. arraySize and #runs are integers, boolean is true if array is sorted, false if not
-       
+    1. arraySize and #runs are integers
+    2. boolean is true if array is sorted, false if not
+~~~
        java Assig4 arraySize, #runs, boolean
-
+~~~
 ### Contributing
 This project is done independently by me, but
 - If you want to contribute new ideas, your pull request is welcomed!
