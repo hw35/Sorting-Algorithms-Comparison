@@ -14,7 +14,8 @@
 
        git clone https://github.com/hw35/Sorting-Algorithms-Comparison.git
 2. Initialize Assig4.java on the command line
-3. Run the following input on the command line, where arraySize and #runs are integers, boolean is true if array is sorted, false if not
+3. Run the following input on the command line
+       * arraySize and #runs are integers, boolean is true if array is sorted, false if not
        
        java Assig4 arraySize, #runs, boolean
 
