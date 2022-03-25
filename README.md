@@ -13,7 +13,7 @@
 
 1. Download the repository files from the download section or clone this project by typing in the bash the following command:
 
-       git clone https://github.com/hw35/Calculator.git
+       git clone https://github.com/hw35/Simon.git
 3. Run MARS on the command line and open Calculator.asm file in MARS.
 4. Open **Tools** tab in MARS and click on **Simple Calculator Register V0.1**
 5. Run the program :)
