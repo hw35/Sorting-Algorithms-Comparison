@@ -1,7 +1,7 @@
 # Sorting Algorithm Effiency Comparison Project
 * Compares the runtime of Simple Quicksort, Median of Three Quicksort, Random Pivot Quicksort, and MergeSort
 
-### Preview
+### Sample Result
 ![Sorting - screenshot](Sort_output.png)
 
 
