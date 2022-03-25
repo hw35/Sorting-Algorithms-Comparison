@@ -2,7 +2,7 @@
 * Compares the runtime of Simple Quicksort, Median of Three Quicksort, Random Pivot Quicksort, and MergeSort
 
 ### Preview
-![Sorting - screenshot](BlackJack_output.png)
+![Sorting - screenshot](Sort_output.png)
 
 
 ### Software Requirement
