@@ -4,7 +4,7 @@
 * Works just like a dollar store calculator
 
 ### Preview
-![Calculator - screenshot](Preview.png)
+![Calculator - screenshot](mars4_5/images/Preview.png)
 
 ### Software Requirement
 * MIPS Assembler and Run-time Simulator (aka MARS)
