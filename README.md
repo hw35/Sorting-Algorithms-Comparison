@@ -18,6 +18,10 @@
 4. Open **Tools** tab in MARS and click on **Simon (Register) V0.1**
 5. Run the program :)
 
+### Sidenote
+* The program can be a big slow when launched, so please be patient with the first few tones played
+* It may take a second or two to register, but it'll get better as more rounds are played
+
 ### Contributing
 This project is done independently by me, but
 * If you want to contribute new ideas, your pull request is welcomed!
