@@ -1,5 +1,6 @@
 # Simon Game
 * System presents a series of tones and lights and player repeats the sequence until mistake is made
+* System adds one more pattern for every round the player succeeds
 * Works just like Simon the boardgame
 
 ### Preview
