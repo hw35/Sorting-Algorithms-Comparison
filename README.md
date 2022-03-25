@@ -15,7 +15,7 @@
 
        git clone https://github.com/hw35/Simon.git
 3. Run MARS on the command line and open Calculator.asm file in MARS.
-4. Open **Tools** tab in MARS and click on **Simple Calculator Register V0.1**
+4. Open **Tools** tab in MARS and click on **Simon (Register) V0.1**
 5. Run the program :)
 
 ### Contributing
