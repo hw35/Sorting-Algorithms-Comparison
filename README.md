@@ -1,7 +1,6 @@
-# Simple Calculator
-* Affords integer addition, subtraction, multiplication, division
-* Each function coded from scratch without using built-in functions
-* Works just like a dollar store calculator
+# Simon Game
+* System presents a series of tones and lights and player repeats the sequence until mistake is made
+* Works just like Simon the boardgame
 
 ### Preview
 ![Simon - screenshot](mars4_5/images/simon_ss.png)
