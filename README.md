@@ -19,7 +19,7 @@
 5. Run the program :)
 
 ### Sidenote
-* The program can be a big slow when launched, so please be patient with the first few tones played
+* The program can be a bit slow when launched, so please be patient with the first few tones played
 * It may take a second or two to register, but it'll get better as more rounds are played
 
 ### Contributing
